@@ -1,0 +1,21 @@
+.navbar, .footer {
+    background-color: rgba(33, 37, 41, 1) !important;
+}
+
+.navbar-brand,
+.nav-link.active,
+.card-body-footer {
+    color: white !important;
+}
+
+.nav-link {
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.card-banner-title {
+    font-size: 45px;
+}
+
+.card-banner {
+    padding: 96px;
+}
